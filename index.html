@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <title>PokéFace</title>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="libs/jquery/jquery-1.11.0.min.js"><\/script>');</script>
+    <script src="js/require.js"></script>
+ 
+    <script>
+      function cssLoaded(href) {
+        var cssFound = false;
+        for (var i = 0; i < document.styleSheets.length; i++) {
+          var sheet = document.styleSheets[i];
+          if (
+            sheet['href'] == "http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" ||
+            sheet['href'] == "https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"
+          ) {
+            cssFound = true;
+          }
+        };
+        return cssFound;
+      };
+    </script>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <script>
+      if (!cssLoaded('bootstrap.min.css')) {
+        local_bootstrap = new CustomEvent('link');
+        local_bootstrap.setAttribute("rel", "stylesheet");
+        local_bootstrap.setAttribute("href", "libs/bootstrap/css/bootstrap.min.css");
+        document.getElementsByTagName("head")[0].appendChild(local_bootstrap);
+      }
+    </script>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+    <script>
+      if (!cssLoaded('bootstrap-theme.min.css')) {
+        local_bootstrap = new CustomEvent('link');
+        local_bootstrap.setAttribute("rel", "stylesheet");
+        local_bootstrap.setAttribute("href", "libs/bootstrap/css/bootstrap-theme.min.css");
+        document.getElementsByTagName("head")[0].appendChild(local_bootstrap);
+      }
+    </script>
+
+    <link rel="stylesheet" href="css/index.css">
+    <script src="js/index.js"></script>
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div id="fb-root"></div>
+
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="#" class="navbar-brand">PokéFace</a>
+        </div>
+
+        <div class="collapse navbar-collapse">
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="center" id="login">
+        <span id="login-button"></span>
+      </div>
+
+    <div>
+        <canvas id="colorhistcanvas" width=300 height=300></canvas>
+    </div>
+    <div>
+        <canvas id="result" width=96 height=96></canvas>
+    </div>
+    <div id="output" style="display:block;"></div>
+      <div class="col-sm-8 col-sm-offset-2">
+        <div class="input-group">
+            <input type="text" placeholder="Url" class="form-control" id="url">
+            <span class="input-group-btn">
+                <button class="btn btn-default" type="button" onclick="run();">Go!</button>
+            </span>
+        </div><!-- /input-group -->
+      </div><!-- /.col-lg-6 -->
+    </div>
+    
+    
+    
+    <script src="math.js"></script>
+    <!-- // <script src="data_generator.js"></script> -->
+    <script src="data.js"></script>
+    <script src="match.js"></script>
+  </body>
+</html>

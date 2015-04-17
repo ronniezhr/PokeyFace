@@ -1,0 +1,63 @@
+2014-04-06 11:48:40: ----- ：任务 'Pokemon Web Server'：计算机 'Lingtian's MacBook' 上的分析操作已由 User 所启动 (GoodSync v 4.0.0.0) -----
+2014-04-06 11:48:40: /Users/Vivid/Documents/Programming/Git <-> ftp://ftp.hflsadmission.com/www/pokeface
+2014-04-06 11:48:40: 左侧：文件： 728 (已排除 10)。文件夹： 89 (已排除 1)。 /dev/disk0s2 HFS, 可用空间：56680M，总计空间：250140M
+2014-04-06 11:49:04: 右侧：文件： 707 (已排除 0)。文件夹： 72 (已排除 1)。 FTP: --------- Welcome to Pure-FTPd [privsep] [TLS] ----------You are user number 13 of 150 allowed.Local time is now 14:48. Server p ...
+2014-04-06 11:49:04: 变更：49， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0
+2014-04-06 11:49:04: Left to Right: Copy File: 49 
+2014-04-06 11:49:04: ----- ：分析已结束。 历时 00:00:25， 速度： 33 个文件/秒 -----
+2014-04-06 11:49:04: 
+2014-04-06 11:49:16: ===== ：任务 'Pokemon Web Server'：同步已被 User 所启动，位于计算机 'Lingtian's MacBook' =====
+2014-04-06 11:49:16: /Users/Vivid/Documents/Programming/Git <-> ftp://ftp.hflsadmission.com/www/pokeface
+2014-04-06 11:49:17: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/09'
+2014-04-06 11:49:17: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/22'
+2014-04-06 11:49:17: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/45'
+2014-04-06 11:49:17: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/5f'
+2014-04-06 11:49:17: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/67'
+2014-04-06 11:49:17: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/6a'
+2014-04-06 11:49:17: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/7f'
+2014-04-06 11:49:17: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/85'
+2014-04-06 11:49:17: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/a7'
+2014-04-06 11:49:17: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/ab'
+2014-04-06 11:49:17: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/b2'
+2014-04-06 11:49:18: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/b7'
+2014-04-06 11:49:18: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/cf'
+2014-04-06 11:49:18: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/d3'
+2014-04-06 11:49:18: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/d5'
+2014-04-06 11:49:18: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/de'
+2014-04-06 11:49:18: 创建文件夹 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/f0'
+2014-04-06 11:49:19: 覆盖复制 '/Users/Vivid/Documents/Programming/Git/.git/COMMIT_EDITMSG' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/COMMIT_EDITMSG'
+2014-04-06 11:49:20: 覆盖复制 '/Users/Vivid/Documents/Programming/Git/.git/FETCH_HEAD' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/FETCH_HEAD'
+2014-04-06 11:49:21: 覆盖复制 '/Users/Vivid/Documents/Programming/Git/.git/index' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/index'
+2014-04-06 11:49:22: 覆盖复制 '/Users/Vivid/Documents/Programming/Git/.git/logs/HEAD' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/logs/HEAD'
+2014-04-06 11:49:24: 覆盖复制 '/Users/Vivid/Documents/Programming/Git/.git/logs/refs/heads/master' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/logs/refs/heads/master'
+2014-04-06 11:49:25: 覆盖复制 '/Users/Vivid/Documents/Programming/Git/.git/logs/refs/remotes/origin/master' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/logs/refs/remotes/origin/master'
+2014-04-06 11:49:26: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/09/e1e260ef21e84c9484e0e81883ed7d2dff2df2' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/09/e1e260ef21e84c9484e0e81883ed7d2dff2df2'
+2014-04-06 11:49:26: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/22/319b47f7211f5d9ae592aa044af8c234a2a34a' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/22/319b47f7211f5d9ae592aa044af8c234a2a34a'
+2014-04-06 11:49:27: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/45/9aab66483217fed5790b70ed38453d020572f0' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/45/9aab66483217fed5790b70ed38453d020572f0'
+2014-04-06 11:49:28: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/5f/c649d6b6b8a138232a4da4e5a2dede9c926923' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/5f/c649d6b6b8a138232a4da4e5a2dede9c926923'
+2014-04-06 11:49:28: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/67/2ce5453c45ae6cc3decb38fc3ab84816a191fe' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/67/2ce5453c45ae6cc3decb38fc3ab84816a191fe'
+2014-04-06 11:49:29: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/6a/86ae73e40febe07d552e755d870b6a6743b5e7' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/6a/86ae73e40febe07d552e755d870b6a6743b5e7'
+2014-04-06 11:49:30: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/78/bcfcb9ef2ffd518213dff0872698e668901b90' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/78/bcfcb9ef2ffd518213dff0872698e668901b90'
+2014-04-06 11:49:31: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/7f/864344364285a42cd37a2d22876cb9daf41aeb' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/7f/864344364285a42cd37a2d22876cb9daf41aeb'
+2014-04-06 11:49:31: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/85/6dc47ca93dd9d7155da3a2c38be71db56e76ac' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/85/6dc47ca93dd9d7155da3a2c38be71db56e76ac'
+2014-04-06 11:49:32: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/a7/3d0d5459ab7de2a7b850ad2d57d12d7e5ba38e' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/a7/3d0d5459ab7de2a7b850ad2d57d12d7e5ba38e'
+2014-04-06 11:49:33: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/ab/de6019da55741f92730b9768073f5e4c10637a' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/ab/de6019da55741f92730b9768073f5e4c10637a'
+2014-04-06 11:49:33: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/b2/e77b34700f5324480e0c4c6236aa14946d86ac' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/b2/e77b34700f5324480e0c4c6236aa14946d86ac'
+2014-04-06 11:49:34: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/b7/2435e53076deee0fbc3368b071fecebe6427ab' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/b7/2435e53076deee0fbc3368b071fecebe6427ab'
+2014-04-06 11:49:35: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/cf/91ac74e319397efa1ecc26ac00b910009dd071' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/cf/91ac74e319397efa1ecc26ac00b910009dd071'
+2014-04-06 11:49:36: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/d3/056aa5c37420ab2d01ce806fbf4b9bc1bf37a3' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/d3/056aa5c37420ab2d01ce806fbf4b9bc1bf37a3'
+2014-04-06 11:49:36: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/d5/28a032c9368215d862939892d03fafb5442024' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/d5/28a032c9368215d862939892d03fafb5442024'
+2014-04-06 11:49:37: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/de/3ae59fc445584fa6375b6a9fb6c13f6284ca58' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/de/3ae59fc445584fa6375b6a9fb6c13f6284ca58'
+2014-04-06 11:49:38: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+2014-04-06 11:49:38: 新建复制 '/Users/Vivid/Documents/Programming/Git/.git/objects/f0/a7ce215c822183ce664646314c33fbbd33b3d8' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/objects/f0/a7ce215c822183ce664646314c33fbbd33b3d8'
+2014-04-06 11:49:39: 覆盖复制 '/Users/Vivid/Documents/Programming/Git/.git/ORIG_HEAD' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/ORIG_HEAD'
+2014-04-06 11:49:41: 覆盖复制 '/Users/Vivid/Documents/Programming/Git/.git/refs/heads/master' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/refs/heads/master'
+2014-04-06 11:49:42: 覆盖复制 '/Users/Vivid/Documents/Programming/Git/.git/refs/remotes/origin/master' -> 'ftp://ftp.hflsadmission.com/www/pokeface/.git/refs/remotes/origin/master'
+2014-04-06 11:49:43: 新建复制 '/Users/Vivid/Documents/Programming/Git/histogram.js' -> 'ftp://ftp.hflsadmission.com/www/pokeface/histogram.js'
+2014-04-06 11:49:44: 覆盖复制 '/Users/Vivid/Documents/Programming/Git/index.html' -> 'ftp://ftp.hflsadmission.com/www/pokeface/index.html'
+2014-04-06 11:49:44: 新建复制 '/Users/Vivid/Documents/Programming/Git/js/index.js' -> 'ftp://ftp.hflsadmission.com/www/pokeface/js/index.js'
+2014-04-06 11:49:45: 覆盖复制 '/Users/Vivid/Documents/Programming/Git/match.js' -> 'ftp://ftp.hflsadmission.com/www/pokeface/match.js'
+2014-04-06 11:49:46: 保存状态文件 ftp://ftp.hflsadmission.com/www/pokeface/_gsdata_/_file_state_v4._gs
+2014-04-06 11:49:46: 项目同步未必： 49，错误： 0
+2014-04-06 11:49:47: ===== ：同步完毕。时间：00:00:33，速度： 3687/s (13K/s) =====
+2014-04-06 11:49:47: 

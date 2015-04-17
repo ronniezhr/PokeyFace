@@ -1,0 +1,17 @@
+By linking with Facebook profile, we can match people's photos to the most 
+resembled pokomon. People can choose their preferences of the pokemon types.
+After players find their matching pokemon, they can then post the pokemon 
+picture on Facebook and get level up and skills by increasing number of Likes.
+The probability of pokemon matches is compatible with the rareness of the
+pokemon. In addition, players who are in a relationship will have additional HP
+bonus and can lay pokemon eggs. The eggs can be given to other players and
+replace their current pokemon.
+
+After getting the pokemon information, players can fight with their friends.
+We use the random algorithm to simulate the result of the fighting.
+
+online play: http://www.ocf.berkeley.edu/~lichuqia/pokey-face/main.html
+
+Facebook link version: http://pokeface.tttech.me
+
+Correct version: http://pokeface.tk/

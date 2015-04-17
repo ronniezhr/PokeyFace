@@ -1,0 +1,15 @@
+2014-04-06 11:52:10: ----- ：任务 'Pokemon Web Server'：计算机 'Lingtian's MacBook' 上的分析操作已由 User 所启动 (GoodSync v 4.0.0.0) -----
+2014-04-06 11:52:10: /Users/Vivid/Documents/Programming/Git <-> ftp://ftp.hflsadmission.com/www/pokeface
+2014-04-06 11:52:10: 左侧：文件： 728 (已排除 10)。文件夹： 89 (已排除 1)。 /dev/disk0s2 HFS, 可用空间：56673M，总计空间：250140M
+2014-04-06 11:52:40: 右侧：文件： 728 (已排除 0)。文件夹： 89 (已排除 1)。 FTP: --------- Welcome to Pure-FTPd [privsep] [TLS] ----------You are user number 14 of 150 allowed.Local time is now 14:52. Server p ...
+2014-04-06 11:52:40: 变更：1， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0
+2014-04-06 11:52:40: Left to Right: Copy File: 1 
+2014-04-06 11:52:40: ----- ：分析已结束。 历时 00:00:31， 速度： 26 个文件/秒 -----
+2014-04-06 11:52:40: 
+2014-04-06 11:53:05: ===== ：任务 'Pokemon Web Server'：同步已被 User 所启动，位于计算机 'Lingtian's MacBook' =====
+2014-04-06 11:53:05: /Users/Vivid/Documents/Programming/Git <-> ftp://ftp.hflsadmission.com/www/pokeface
+2014-04-06 11:53:06: 覆盖复制 '/Users/Vivid/Documents/Programming/Git/index.html' -> 'ftp://ftp.hflsadmission.com/www/pokeface/index.html'
+2014-04-06 11:53:07: 保存状态文件 ftp://ftp.hflsadmission.com/www/pokeface/_gsdata_/_file_state_v4._gs
+2014-04-06 11:53:08: 项目同步未必： 1，错误： 0
+2014-04-06 11:53:08: ===== ：同步完毕。时间：00:00:05，速度： 3861/s (10K/s) =====
+2014-04-06 11:53:08: 

@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: pokemon
+      hosts:
+        - localhost:27017

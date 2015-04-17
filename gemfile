@@ -1,0 +1,9 @@
+source 'http://rubygems.org'
+
+ruby '1.9.3'
+
+gem 'mongoid', '~> 3'
+gem 'money-rails', '0.8.1'
+gem 'pry'
+gem 'activesupport', '3.2.15'
+gem 'rails'
